@@ -2,3 +2,4 @@ Login functionality implemented
 Username validation added
 Password validation added
 This update demonstrates Git branching and merge conflict resolution.
+update from feature branch
